@@ -1,0 +1,10 @@
+faster-whisper
+opencc-python-reimplemented
+torch
+torchaudio  # 如果需要
+soundfile
+pyannote.audio  # 說話者分離
+huggingface-hub
+yt-dlp  # YouTube 下載
+ffmpeg-python  # 如果你用 subprocess 呼叫 ffmpeg
+argparse  # 命令列
